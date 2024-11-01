@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(252, 209, 153);
+    border-radius: 20%;
+}
+
+.font {
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-size: 30px;
+}
+
